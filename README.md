@@ -1,2 +1,2 @@
 # Testes 
- Treinamento para o curso
+ Treinamento com o intuido de aprendizado.
