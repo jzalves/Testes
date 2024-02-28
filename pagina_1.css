@@ -1,19 +1,27 @@
 #titulo{
     color: aquamarine;
-    background-color: black;
+  
     text-align: center;
+    margin-top:0%;
+    margin-bottom: 0%;
+    size: 150%;
 }
- #par_princ{
-text-align: center;
+    #par_princ{
+    text-align: center;
 
     }
 #menu{   
     text-align: center;
     font-size: medium;
-    background-color: bisque;
+    margin: 30px;
+    align-items: center;
+    align-content: flex-end;
+
+   
 
 }
-#head{
-
+header{
     background-color: black;
+    padding: 0%;
+
 }
